@@ -52,7 +52,7 @@ Resources
 ```
 
 These endpoints each provide different sets of data. Since it is mimicking a
-RESTful API, sending a request to 'http://localhost:3000/dogs' will return all
+  RESTful API, sending a request to 'http://localhost:3000/dogs' will return all
 records in the database for dogs, while 'http://localhost:3000/dogs/1' will
 return the dog with the id of 1.
 
